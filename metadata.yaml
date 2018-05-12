@@ -1,0 +1,33 @@
+_repo: The-Aboriginal-Population-of-Alameda-and-Contra-Costa-Counties-California_33978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, Sherburne Friend
+    aliases:
+    - Cook, S. F. (Sherburne Friend)
+    - Cook, Sherburne F.
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '36639'
+    url: http://www.gutenberg.org/2009/agents/36639
+    wikipedia: http://en.wikipedia.org/wiki/Sherburne_F._Cook
+description: ''
+gutenberg_issued: '2010-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33978'
+  lccn: a57009628
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological Records, Vol. 16, No. 4
+subjects:
+- !lcsh 'Indians of North America -- California'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Statistics'
+title: The Aboriginal Population of Alameda and Contra Costa Counties, California
+url: http://www.gutenberg.org/ebooks/33978
