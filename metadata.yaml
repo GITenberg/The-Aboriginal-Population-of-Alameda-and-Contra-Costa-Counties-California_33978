@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36639
     wikipedia: http://en.wikipedia.org/wiki/Sherburne_F._Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33978#The-Aboriginal-Population-of-Alameda-and-Contra-Costa-Counties-California
 gutenberg_issued: '2010-09-27'
 gutenberg_type: Text
 identifiers:
